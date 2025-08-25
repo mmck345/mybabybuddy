@@ -1,4 +1,4 @@
-app = "babybuddy-yourname"
+app = "my-babybuddy"
 
 [build]
   builder = "paketobuildpacks/builder:base"
